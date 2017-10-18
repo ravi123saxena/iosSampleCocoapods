@@ -1,0 +1,22 @@
+{
+  "name": "iosSampleCocoapods",
+  "version": "0.1.0",
+  "summary": "A short description of iosSampleCocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ravindra Kumar Saxena/iosSampleCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ravindra Kumar Saxena": "ravindra.saxena@evry.com"
+  },
+  "source": {
+    "git": "https://github.com/Ravindra Kumar Saxena/iosSampleCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iosSampleCocoapods/Classes/**/*"
+}
